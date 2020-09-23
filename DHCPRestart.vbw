@@ -1,0 +1,7 @@
+frmMain = 52, 76, 852, 525, C, 190, 108, 662, 557, C
+basSysTray = 88, 88, 910, 533, C
+frmAbout = 0, 0, 822, 445, C, 324, 66, 684, 511, C
+basGlobals = 88, 88, 910, 533, C
+frmSettings = 110, 110, 932, 555, C, 264, 122, 710, 485, C
+basIni = 66, 66, 888, 511, C
+basShellAndWait = 110, 110, 932, 555, C
